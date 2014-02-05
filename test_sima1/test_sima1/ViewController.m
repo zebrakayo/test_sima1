@@ -20,7 +20,9 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     //test
-    NSString *testString1 = @"ここに追加してみました！";
+    NSString *testString1 = @"ここに追加してみました！!";
+    //test2
+    NSString *testString2 = @"test2 ここに追加してみました！";
 
 }
 
